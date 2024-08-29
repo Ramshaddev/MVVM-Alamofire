@@ -1,2 +1,1 @@
 MVVM - Alamofire
-Generics
