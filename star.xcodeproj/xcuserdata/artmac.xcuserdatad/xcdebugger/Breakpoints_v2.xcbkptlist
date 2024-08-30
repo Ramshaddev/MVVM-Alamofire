@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4ECCB52E-D11C-49C9-9F15-6BDA32061344"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C8980EB-6FB4-45C4-A3D3-4F5F2F7F1042"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "star/Networking/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getHomeAPi(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "40FB7788-5D65-40C9-8FBC-CF4125FC5493"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "star/Networking/ApiClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "request(endpoint:method:header:parameter:encoding:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "40FB7788-5D65-40C9-8FBC-CF4125FC5493 - e214e2aa20d3e774"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "star.ApiClient.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Swift.String, method: Alamofire.HTTPMethod, header: Swift.Optional&lt;Alamofire.HTTPHeaders&gt;, parameter: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, encoding: Swift.Optional&lt;Alamofire.ParameterEncoding&gt;, completion: (Swift.Result&lt;&#x3c4;_0_0, star.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "star"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artmac/Documents/Learning/star/star/Networking/ApiClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43">
+               </Location>
+               <Location
+                  uuid = "40FB7788-5D65-40C9-8FBC-CF4125FC5493 - dde9cb7df4ce8c04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in star.ApiClient.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Swift.String, method: Alamofire.HTTPMethod, header: Swift.Optional&lt;Alamofire.HTTPHeaders&gt;, parameter: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, encoding: Swift.Optional&lt;Alamofire.ParameterEncoding&gt;, completion: (Swift.Result&lt;&#x3c4;_0_0, star.ApiError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "star"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artmac/Documents/Learning/star/star/Networking/ApiClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C68240B-B273-45BA-AD2D-8ACE146CB7BD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "star/Networking/ApiClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "request(endpoint:method:header:parameter:encoding:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4320C85E-B614-4576-94FE-B27A24127F07"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "star/Networking/ApiClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "request(endpoint:method:header:parameter:encoding:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DEAF14B8-09DB-4C4A-BC73-22E2A9282C7C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "star/Networking/ApiClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "request(endpoint:method:header:parameter:encoding:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D651FE9-C59B-4227-82AC-A0219D455E01"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "star/Networking/ApiClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "request(endpoint:method:header:parameter:encoding:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "151AAAA1-E16D-4717-B6E0-5FCCCC2890AF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "star/Networking/ApiClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "request(endpoint:method:header:parameter:encoding:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A622CD8-B382-4FC1-A79C-7565D84593DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "star/Networking/ApiClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "request(endpoint:method:header:parameter:encoding:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
